@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  padding: 10px ;
+  
+
+}
+body {
+  font-family: 'open sans';
+  background-color: rgb(66, 62, 40);
+  padding: 5%;
+  border: 10px;
+}
+
